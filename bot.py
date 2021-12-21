@@ -40,3 +40,5 @@ class Code(commands.Cog):
         await ctx.reply("Команда не найдена\nComand not found")
 def setup(bot):
     bot.add_cog(Code(bot))
+
+bot.run(token)
