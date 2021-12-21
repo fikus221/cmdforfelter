@@ -17,9 +17,7 @@ class Code(commands.Cog):
 
     async def code(ctx, text, code):
 
-      if ctx.author.id == blackmember:
-        await ctx.send("Erorr!\nCommand has removed for cmd v8.2.4\n you no permision")
-      elif text == send:
+      if text == send:
         await ctx.send(code)
       elif text == delete:
         await ctx.channel.purge(limit=2)
