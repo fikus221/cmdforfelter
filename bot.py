@@ -41,7 +41,7 @@ async def code(ctx, text, *, code): # arguments for command and name main triger
     await message.edit(content="/")
     await sleep(0.3)
     await message.delete()
-    await ctx.reply("ℹ️\n`f+code send <you text>` send message \n `f+code delete 1` delete 1 message\n `f+code mention <id member>` mention for id member\n `f+code sendemb <you text>` send text in embed\n`f+code change_name_server <New name server> Change guild name!` `\nℹ️ By felter bot CMD")
+    await ctx.reply("ℹ️\n`f+code send <you text>` send message \n `f+code delete 1` delete 1 message\n `f+code mention <id member>` mention for id member\n `f+code sendemb <you text>` send text in embed\n`f+code change_name_server <New name server> Change guild name!` \nf+code exit_bot 1` you kick is from server\nℹ️ By felter bot CMD")
   else:# else command not found
     await ctx.reply("Команда не найдена\nComand not found")
 
