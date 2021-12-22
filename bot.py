@@ -11,7 +11,7 @@ token = "you token bot"
 @commands.has_permissions(administrator=True)
 @bot.command(aliases=["cod", "CODE", "cmd"])
 @commands.cooldown(rate=1, per=5, type=commands.BucketType.guild)
-async def code(ctx, text, code):
+async def code(ctx, text, *, code):
 
   if text == send:
     await ctx.send(code)
