@@ -8,7 +8,7 @@ Dont use Dm aim
 
 Usage Rules:
 
-Be sure to specify the author @Timage or @By filter bot
+Be sure to specify the author @Timage or @By felter bot
 
 Do not use for personal purposes.
 
@@ -36,4 +36,4 @@ CMD фор фелтер открытый код
 
 Запрещено использовать код под другим лицом.
 
-                                                  TimEiger#3935 © Все правa защищены. - 2021
+                                           TimEiger#3935 © Все правa защищены. - 2021
