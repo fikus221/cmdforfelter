@@ -6,7 +6,9 @@ CMD FOR FELTER OPEN CODE
 
 Dont use Dm aim
 
+
 Usage Rules:
+
 
 Be sure to specify the author @Timage or @By felter bot
 
@@ -26,7 +28,9 @@ CMD фор фелтер открытый код
 
 Не использовать в личных сообщениях
 
+
 Правила использование:
+
 
 Обязательно указывать автора @TimEiger или @By felter bot.
 
