@@ -19,6 +19,9 @@ The author supports modifications in the code.
 It is forbidden to use the code under another person.
 
 --------------------------------------------
+<a href="https://top.gg/bot/815315388073639948">
+  <img src="https://top.gg/api/widget/owner/815315388073639948.svg?noavatar=true">
+</a>
 
 Для скачивание nextcord - pip install nextcord
 
