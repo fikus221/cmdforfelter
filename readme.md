@@ -41,6 +41,8 @@ CMD фор фелтер открытый код
 Запрещено использовать код под другим лицом.
 
                                    TimEiger#3935 © Все правa защищены. - 2021
-   <a href="https://top.gg/bot/815315388073639948">
+   <a href="https://top.gg/bot/815315388073639948">                                    <a href="https://top.gg/bot/815315388073639948">
+  <img src="https://top.gg/api/widget/upvotes/815315388073639948.svg?noavatar=true">
+</a>
   <img src="https://top.gg/api/widget/owner/815315388073639948.svg?noavatar=true">
 </a>
