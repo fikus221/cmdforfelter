@@ -19,9 +19,6 @@ The author supports modifications in the code.
 It is forbidden to use the code under another person.
 
 --------------------------------------------
-<a href="https://top.gg/bot/815315388073639948">
-  <img src="https://top.gg/api/widget/owner/815315388073639948.svg?noavatar=true">
-</a>
 
 Для скачивание nextcord - pip install nextcord
 
@@ -44,3 +41,6 @@ CMD фор фелтер открытый код
 Запрещено использовать код под другим лицом.
 
                                    TimEiger#3935 © Все правa защищены. - 2021
+   <a href="https://top.gg/bot/815315388073639948">
+  <img src="https://top.gg/api/widget/owner/815315388073639948.svg?noavatar=true">
+</a>
